@@ -1,11 +1,7 @@
 # HireDream
  Transform your MNC's hiring process with HireDream. Unlock top talent, elevate your hiring game, and secure the perfect fit.
 
-<div style="text-align: center;">
-  <a href="https://7rajnishsharma.github.io/HireDream/" target="_blank" style="font-size: 18px;">
-    <strong>➥ Real-time Demonstration</strong>
-  </a>
-</div>
+<a href="https://7rajnishsharma.github.io/HireDream/"><strong>➥ Real-time Demonstration</strong></a>
 
 # Digital Recruitment Solution App
 
