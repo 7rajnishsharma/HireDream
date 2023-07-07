@@ -5,7 +5,7 @@
 
 # Digital Recruitment Solution App
 
-This is a web-based application aimed at providing a seamless hiring experience for multiple multinational corporations (MNCs). The website offers various features and functionalities to streamline the recruitment process for hiring managers and HR professionals.
+The HireDream is dedicated to the frontend of a web-based application, exclusively designed to enhance the hiring experience for multinational corporations. Packed with innovative features and functionalities, it empowers hiring managers and HR professionals to streamline the recruitment process effectively.
 
 ## Table of Contents
 
