@@ -147,7 +147,10 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url("img/background1.jpg");
+  background-image:   linear-gradient(180deg,
+                      rgba(0,0,0,0.3) 0%,
+                      rgba(0, 0, 0, 0.565) 100%),
+                      url("img/bg.jpg");
   background-size: cover;
   background-position: center;
 }
